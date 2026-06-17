@@ -21,7 +21,7 @@ Through statistical analysis, I uncovered that this was not a localized attack. 
 
 ### 4. Impact Analysis & Remediation
 Using correlation queries, I visualized the campaign's success rate. Of the 120 total emails, 13 users clicked on malicious links, marking them as high-priority incident response cases.
-![Impact Summary](image_88241b.png)
+![Impact Summary](image_88241b.jpg)
 ![Detailed Interaction Logs](action.jpg)
 
 ---
